@@ -1,0 +1,63 @@
+/* Reset dasar */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background-color: #6f4e37;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* Navigasi */
+nav {
+    background-color: #4e342e;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Section konten */
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Judul */
+h2 {
+    color: #6f4e37;
+}
+
+/* List */
+ul {
+    padding-left: 20px;
+}
+
+/* Paragraf */
+p {
+    line-height: 1.6;
+}
+
+/* Footer */
+footer {
+    background-color: #6f4e37;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
